@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.vladislav7598_glitch.twa",
+        "sha256_cert_fingerprints": ["6A:B0:7C:DF:E1:30:99:9E:0F:A6:4E:98:40:B2:F5:B1:4A:FE:A0:F9:CC:94:29:82:A0:73:22:D8:B0:65:E8:FD"]
+      }
+    }]
